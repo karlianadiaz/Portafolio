@@ -19,10 +19,10 @@
              ser uma funcionaria multi tarefas. 
             </p> </heder>
 
-            <div id="Historia"></div>
+  <div id="Historia"></div>
             <h2>Historia de Vida</h2>
 
-            <p>Nasci  um dia 16 de agosto de 1993 na Venezuela com a fortuna de ter pais maravilhoso. Tive muitos anos amenos <br>
+   <p>Nasci  um dia 16 de agosto de 1993 na Venezuela com a fortuna de ter pais maravilhoso. Tive muitos anos amenos <br>
                 na Venezuela até que chegou a crises. Como o custo de vida aumentou de maneira brusca, ficou impossível continuar<br>
                  morando lá, na minha casa o dinheiro não alcançava para os mantimentos de toda minha família, isso partiu meu coração<br>
                   e me vi obrigada a emigrar.</p>
@@ -37,19 +37,19 @@
 
 
 
-            <div id="Minhas Experiências"></div>
+   <div id="Minhas Experiências"></div>
                 <div>
 
-                    <h2>Minhas experiências profissionais:</h2>
+   <h2>Minhas experiências profissionais:</h2>
                     <lo>
                     <li>Na venezuela meu primeiro e unico trabalho foi de auxiliar administrativo no (Instituto Venezolano de investigaciones cientificar IVIC)</li>
                      <li>No brasil comencei sendo recepcionista  no Motel Dunas.</li>
                       <li>Atualmente sou auxiliar administrativo de umas das socias.</li>
                       <li>Bartender em eventos.</li>
 
-            </div>
+  </div>
 
-            <div id="educacional">
+   <div id="educacional">
                 <div>
                     <h2>Minhas formações:</h2>     
                   <p> -Na Venezuela me formei em Administração de empresa.</p>
@@ -59,13 +59,13 @@
                    <p>-Assistente de Rh pela Faetec.</p>
                    <img src ="img/faetec.jpg" widht= "50" height="60" alt="logo faetec">
 
-                     <P>-Curso Basico de Bartender</P>
+  <P>-Curso Basico de Bartender</P>
 
-                     <div id="ladoalado"><div class="container"><img src="img/Bartender.jpg"width="200"heigt="150"alt="eu sendo bartender"><img src="img/bartender 2.jpg"width="300"heigt="200"alt="karli bartender"></div>
+  <div id="ladoalado"><div class="container"><img src="img/Bartender.jpg"width="200"heigt="150"alt="eu sendo bartender"><img src="img/bartender 2.jpg"width="300"heigt="200"alt="karli bartender"></div>
 
-                     <p>-Curso de sobrevivencia na selva.</p>
+   <p>-Curso de sobrevivencia na selva.</p>
 
-                    <p>-Actualmente estou-me formando como desembolvedora Full stack com ajuda da startup social 
+   <p>-Actualmente estou-me formando como desembolvedora Full stack com ajuda da startup social 
                         <a href="https://toti.site/#quem-somos"> TOTI</a></p>
                         <img src="img/toti.png" widht="10" heigth="20" alt= "logo Toti">
                 </div>
@@ -74,9 +74,9 @@
 <aside>
             <div>
 
-    <h2>Trabalhos Realizados no curso da TOTI</h2>
+ <h2>Trabalhos Realizados no curso da TOTI</h2>
 
-    <p>Te invito a conhecer meus trabalhos e ir acompnahando minha evolução no curso.</p>
+  <p>Te invito a conhecer meus trabalhos e ir acompnahando minha evolução no curso.</p>
 <ol>
     <ul> <h3>Conhecendo o Hit hub:</h3> Fiz meu primeiro repositorio te invito a dar uma olhada, faz um <a href="https://github.com/karlianadiaz/Curso_Git-1"> Click</a> </ul>
     <ul><h3> Apresentação feita no Hit hub sobre mim</h3> te invito a dar uma olhada, faz um <a href="https://karlianadiaz.github.io/"> Click</a> </ul>
@@ -129,7 +129,7 @@
 
 </lu>
 
-     <P> &copy;2020 Karliana Diaz </P>
+  <P> &copy;2020 Karliana Diaz </P>
 
     </footer>
 </center>
