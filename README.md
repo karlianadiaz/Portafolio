@@ -110,6 +110,7 @@
 
 <section>
 <hr align="center" width="900">
+
 <CENTER>
    O que determina quem eu sou é minha vontade de continuar lutando. Não vou desistir porque tive uma segunda chance de viver.”
   </CENTER>
@@ -126,13 +127,13 @@
         <li><strong>Telefono:</strong> +55 (21)965023199</li>
         <li><strong>E-mail:</strong>karlianadiaz1661@gmail.com</li>
         <li><strong>Endereço:</strong> Muzema, Rio de Janeiro, RJ</li>
-
 </lu>
 
   <P> &copy;2020 Karliana Diaz </P>
 
-    </footer>
+  </footer>
 </center>
+
 </html>
 
 
